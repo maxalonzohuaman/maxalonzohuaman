@@ -1,5 +1,5 @@
 - 👋 Hola, soy Max Alonzo H.
-- 👀 Mis áreas de interés Inteligencia Artificial / Machine Learning
+- 👀 Mis áreas de interés Inteligencia Artificial | Estrategia Digital
 
 
 <!---
